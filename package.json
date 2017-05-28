@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Bookstore using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"app.js"
+  },
+  "dependencies": {
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+    },
+  "author": "",
+  "license": "ISC"
+}
